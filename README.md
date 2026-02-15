@@ -1,1 +1,1 @@
-<img url:"background menu.jpg">
+<img src:"background menu.jpg">
